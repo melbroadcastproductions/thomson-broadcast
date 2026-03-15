@@ -1,4 +1,4 @@
-<?php
-$recipientEmail = 'sales@thomson-broadcast.tv';
-header('Location: contact.html');
-exit;
+User-agent: *
+Allow: /
+
+Sitemap: https://thomsonbroadcast.tv/sitemap.xml
